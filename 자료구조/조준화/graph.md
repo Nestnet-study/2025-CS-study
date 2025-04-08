@@ -352,7 +352,3 @@ class MapWeightedGraph {
     }
 }
 ```
-
----
-
-이번 주제는 딱히 예상 문제가 없습니다.
