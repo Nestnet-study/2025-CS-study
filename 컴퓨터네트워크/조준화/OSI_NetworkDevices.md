@@ -2,7 +2,7 @@
 
 ## 1. OSI 7계층
 
-![image.png](attachment:51c2c7a2-0ea1-49f1-9104-f04a9f5bd184:image.png)
+![image.png](images/osi.png)
 
 ### 7계층 : 응용 계층
 
